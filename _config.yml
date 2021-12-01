@@ -1,1 +1,5 @@
 theme: jekyll-theme-midnight
+name: User Agreement
+title: User Agreement
+header: false
+exclude: ["#header"]
