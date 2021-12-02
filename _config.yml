@@ -1,5 +1,6 @@
 theme: jekyll-theme-midnight
 name: User Agreement
 title: User Agreement
-header: false
-exclude: ["#header"]
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-midnight
